@@ -35,3 +35,17 @@ This information is helpful because we could use strategies such as targeted adv
 - Z_CostContact: Final Cost Charge for the product
 - Z_Revenue: Over all revenue generated for the particular product
 - Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+
+### Summary and Conclusion
+#### Insights:
+
+- Customers age range is from 27 to 55
+- 'Widow' is a very large group of alcohol users that we should exploit => SUGGESTION: THERE SHOULD BE ALCOHOL CESSATION PRODUCTS FOR TWO GROUPS !
+- Non-children families enjoy buying MntWines. With the higher income, they buy MntWines and MntMeatProducts
+- 'Single' and 'Widow' take a lead in consuming 'MntMeatProducts'
+- A majority of families have high income with no kids. They prefer MntWines and MntMeatProducts
+  - If alcohol is the mainstay of this store, they're doing a great job. => SUGGESTION: TURNING FISH TO SUPPLY IF MEAT IS NOT ENOUGH TO SUPPLY
+- A minority of families have low income with 2 kids
+- "Income" and "Alcohol" are related with 73% probability
+- "Income" and "MntMeatProducts" are related with 70% probability
+- High amount of purchases can bee seen in the Store Visits as compared to Web or Catalog Purchaces
